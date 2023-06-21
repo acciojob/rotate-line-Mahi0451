@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const line = getElementById("line");
+const line = document.getElementById("line");
 let rotation = 0;
 
 setInterval = (() => {
